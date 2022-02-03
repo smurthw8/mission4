@@ -41,12 +41,20 @@ namespace FilmCollector.Controllers
         //cr = what being passed from the form
         public IActionResult AddtoCollection(CollectionResponse cr)
         {
-            //get data from form
-            _filmAdder.Add(cr);
-            //save changes
-            _filmAdder.SaveChanges();
+            if (ModelState.IsValid)
+            {
+                //get data from form
+                _filmAdder.Add(cr);
+                //save changes
+                _filmAdder.SaveChanges();
 
-            return View("Index");
+                return View("Index");
+            }
+            else
+            {
+                return View(cr);
+            }
+
         }
 
     }

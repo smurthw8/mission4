@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5rWQpByMPutujoTqWeKHgqqdtkBcXWRRZ9fL2PWsoI80Rx6VTeIThULM0A/tKh9eEst1iQwNqIpdt03IB9k22A==",
+  "dgSpecHash": "mDg1tr4pm+nc+xv06ZQI/OzaC8Hy7LsC14ggPFR9Mcpv+BtUjOJiD5j5Mz31Fqb/kVfBSW8LQCK8iYUVAz4oRQ==",
   "success": true,
-  "projectFilePath": "/Users/kirstenhome/Projects/FilmFanatic/FilmFanatic/FilmFanatic.csproj",
+  "projectFilePath": "/Users/kirstenhome/Documents/GitHub/mission4/FilmFanatic/FilmFanatic/FilmFanatic.csproj",
   "expectedPackageFiles": [
     "/Users/kirstenhome/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/kirstenhome/.nuget/packages/microsoft.bcl.hashcode/1.1.1/microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

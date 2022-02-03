@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kirstenhome/Projects/FilmFanatic/FilmFanatic/FilmFanatic.csproj": {}
+    "/Users/kirstenhome/Documents/GitHub/mission4/FilmFanatic/FilmFanatic/FilmFanatic.csproj": {}
   },
   "projects": {
-    "/Users/kirstenhome/Projects/FilmFanatic/FilmFanatic/FilmFanatic.csproj": {
+    "/Users/kirstenhome/Documents/GitHub/mission4/FilmFanatic/FilmFanatic/FilmFanatic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kirstenhome/Projects/FilmFanatic/FilmFanatic/FilmFanatic.csproj",
+        "projectUniqueName": "/Users/kirstenhome/Documents/GitHub/mission4/FilmFanatic/FilmFanatic/FilmFanatic.csproj",
         "projectName": "FilmFanatic",
-        "projectPath": "/Users/kirstenhome/Projects/FilmFanatic/FilmFanatic/FilmFanatic.csproj",
+        "projectPath": "/Users/kirstenhome/Documents/GitHub/mission4/FilmFanatic/FilmFanatic/FilmFanatic.csproj",
         "packagesPath": "/Users/kirstenhome/.nuget/packages/",
-        "outputPath": "/Users/kirstenhome/Projects/FilmFanatic/FilmFanatic/obj/",
+        "outputPath": "/Users/kirstenhome/Documents/GitHub/mission4/FilmFanatic/FilmFanatic/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/kirstenhome/.nuget/NuGet/NuGet.Config"
+          "/Users/kirstenhome/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
